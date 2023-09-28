@@ -1,1 +1,1 @@
-https://vinodjangid07.github.io/Portfolio/
+It is a dynamic portfolio build with HTML and CSS
